@@ -1,1 +1,1 @@
-waixiu.github.io/dist
+sxontheway.github.io/dist
