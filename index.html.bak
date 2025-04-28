@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <script src="https://kit.fontawesome.com/5eabd12e87.js" crossorigin="anonymous"></script>
+        <meta name="google-site-verification" content="pMcHHGB98HZPcd6lADlO6CWPbSyqkjLIIST7bT_ysWM" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=0.8, shrink-to-fit=yes, user-scalabel=yes"/>
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Xian (Alex) Shuai's Homepage</title>
+        <link rel="icon" type="image/x-icon" href="img/favicon.ico" />
+        <!-- Font Awesome icons (free version)-->
+        <script src="https://use.fontawesome.com/releases/v5.15.1/js/all.js" crossorigin="anonymous"></script>
+        <!-- Google fonts-->
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+    </head>
+    <body id="page-top">
+        <!-- Navigation-->
+        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+            <a class="navbar-brand js-scroll-trigger" href="#page-top">
+                <span class="d-block d-lg-none">Xian (Alex) Shuai</span>
+                <span class="d-none d-lg-block"><img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/photo2_small.jpg" alt="" /></span>
+            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#background">Education</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#interests">Research Interests</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#publications">Publications</a></li>
+                    <!-- <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#employment">Employment</a></li> -->
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#awards">Honors and Awards</a></li>
+                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#activities">Activities</a></li>
+                </ul>
+            </div>
+        </nav>
+        <!-- Page Content-->
+        <div class="container-fluid p-0">
+            <!-- About-->
+            <section class="resume-section" id="about">
+                <div class="resume-section-content">
+
+                    <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                    <td width="90%" valign="middle">
+                        <img src="img/photo0_small.jpg" width="250">
+                        <p>
+
+                        <h2 class="mb-0">
+                            Xian Shuai
+                            <span class="text-primary">&nbsp;&nbsp帅先</span>
+                        </h2>
+                        <div class="lead mb-5">
+                            <!-- (852) 54265745 <br>  -->
+                            shuaixiannee at hotmail.com <br>
+                            8/F, Bio-Informatics Centre, Hong Kong Science Park
+                        </div>
+
+                        <p class="lead mb-5">
+                        I am currently a researcher at Huawei Noah's Ark Lab, conducting research on <b>foundation models and AI agent</b>. 
+                        <br><br>
+                        From 2018 to 2022, I spent four years at the Chinese University of Hong Kong <a href="https://www.cuhk.edu.hk/chinese/index.html" target="_blank" rel="noopener">(CUHK)</a> to obtain my Ph.D. degree, under the supervision of Professor <a href="https://www.ie.cuhk.edu.hk/people/glxing.shtml" target="_blank" rel="noopener">Guoliang Xing (IEEE Fellow)</a>. During Ph.D., my research interests lie in the <b>Sensing and Computing for Edge AI Systems</b>. I got my Bachelor degree from School of Physics, University of Science and Technology of China <a href="https://www.ustc.edu.cn/" target="_blank" rel="noopener">(USTC)</a> in 2018.
+                        <br><br>
+                        When I have free time, I enjoy studying business models across various industries and researching how to invest based on fundamental analysis. Some of my random thoughts can be found in the <b><a href="https://www.zhihu.com/column/c_1320032999812370432" target="_blank" rel="noopener">知乎专栏</a></b>, <b><a href="https://xueqiu.com/9565582768/column" target="_blank" rel="noopener">雪球专栏</a></b>
+                        <br>
+                        I am also a part-time photographer. Click my gallery to have a look: <b><a href="http://sxontheway.lofter.com/" target="_blank" rel="noopener">Lofter</a></b>                  
+                        </p>
+
+                        <div class="social-icons">
+                            <a href="mailto:shuaixiannee@hotmail.com">
+                                <i class="fas fa-envelope fa-2x"></i>
+                            </a>
+                            &nbsp;&nbsp;&nbsp;
+                            <a href="https://www.linkedin.com/in/xian-shuai-213475156/">
+                            <i class="fab fa-linkedin-in fa-2x"></i>
+                            </a>
+                            &nbsp;&nbsp;&nbsp;
+                            <a href="https://github.com/sxontheway">
+                                <i class="fab fa-github fa-2x"></i>
+                            </a>
+                            &nbsp;&nbsp;&nbsp;
+                            <a href="https://scholar.google.com/citations?user=PBfBNCkAAAAJ&hl=zh-CN">
+                                <i class="fa-brands fa-google fa-2x"></i>
+                            </a>
+                            &nbsp;&nbsp;&nbsp;
+                            <a href="https://www.zhihu.com/column/c_1320032999812370432">
+                                <i class="fa-brands fa-zhihu fa-2x"></i>
+                            </a>
+                            <!-- &nbsp;&nbsp;&nbsp;
+                            <a href="https://mycuhk-my.sharepoint.com/:b:/g/personal/1155118647_link_cuhk_edu_hk/EWH3UAZmeRhLohqP1mCjEVYBoFTs1V2OG_9E4T7wLhiYBQ?e=e3B8og">
+                                <i class="fas fa-arrow-alt-circle-down fa-2x"></i>CV 
+                            </a>   -->
+                        </div>
+                    </td>
+                    <td width="20%" valign="middle">
+
+                    </td>
+                    </table>
+                      
+                    <!-- <table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                        <tr>
+                            <td width="90%" valign="middle">
+                                <h1 class="mb-0">
+                                    Xian Shuai
+                                    <span class="text-primary">&nbsp;&nbsp帅先</span>
+                                </h1>
+                                <div class="lead mb-5">
+                                    (852) 54265745  · shuaixiannee at hotmail.com 
+                                    <br>
+                                    Room 727, SHB, CUHK, Hong Kong 
+                                    <a href="mailto:shuaixiannee@hotmail.com">shuaixiannee@hotmail.com</a> 
+                                </div>
+                                <p class="lead mb-5">
+                                    I am currently a fourth year Ph.D student in <a href="http://aiot.ie.cuhk.edu.hk/" target="_blank" rel="noopener">AIoT Lab</a> at <a href="https://www.cuhk.edu.hk/chinese/index.html" target="_blank" rel="noopener">the Chinese University of Hong Kong (CUHK)</a>, advised by Professor <a href="https://www.ie.cuhk.edu.hk/people/glxing.shtml" target="_blank" rel="noopener">Guoliang Xing</a>. Before, I got my Bachelor degree from School of Physics, <a href="https://www.ustc.edu.cn/" target="_blank" rel="noopener">University of Science and Technology of China (USTC)</a> in 2018. My research interests lie in the Sensing and Computing for Embedded AI Systems. 
+                                    <br><br>
+                                    When I am free, I devote myself to improving my business acumen and studying fundamental driven investment approach towards equities. See my blogs: <b><a href="https://xueqiu.com/9565582768/column" target="_blank" rel="noopener">雪球专栏</a></b>.
+                                    <br>
+                                    I am also a part-time photographer. Click my gallery to have a look: <b><a href="http://sxontheway.lofter.com/" target="_blank" rel="noopener">Lofter</a></b>.                  
+                                </p>
+                                <td width="15%">
+                                    <img src="" width="">
+                                </td>
+                                <td width="10%">
+                                    <img src="img/photo0_small.jpg" width="250">
+                                </td>
+                            </td>
+                        </tr>
+                    </table> -->
+
+                </div>
+            </section>
+
+
+            <hr class="m-0" />
+            <!-- Interests-->
+            <section class="resume-section" id="interests">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Research Interests</h2>
+                    
+                        Throughout my Ph.D., I conduct research on the <u>Sensing and Computing for Edge AI Systems</u>. My research involves the following three directions:
+                        <p>
+
+                        <ul>
+                            <li>
+                                <b>Sensor-Specific Data Processing</b>
+                                <br>
+                                I have been working on the data processing algorithms on a variety of sensors, including RGB-D cameras, IMUs, and mmWave radars. Applications include object detection, object tracking, activity recognition and vital sign sensing.
+
+                            </li>
+                            <br>
+                            <li>
+                                <b>Machine Learning Algorithms for Real-World Data</b>
+                                <br>
+                                Due to the imbalanced data distribution, data insufficiency and domain shift, machine learning using the real-world data is highly challenging. I have been working on corresponding solutions on federated learning, long-tailed learning, few-shot learning and domain adaptation, etc.
+                            </li>
+                            <br>
+                            <li>
+                                <b>High-Performance Inference on the Edge</b>
+                                <br>
+                                The deployment of the deep learning models on edge devices is the last mile of building an AIoT application. My studies aim to accelerate the on-device inference of neural networks via hardware-aware tensor program generation using both intra-operator and inter-operator optimizations.
+                            </li>
+                        </ul> 
+                </div>
+            </section>
+
+
+            <hr class="m-0" />
+            <!-- Publication-->
+            <section class="resume-section" id="publications">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Selected Publications</h2>
+                    Full list in Google Scholar (* denotes equal contribution): 
+                    <a href="https://scholar.google.com/citations?user=PBfBNCkAAAAJ&hl=zh-CN">
+                        <i class="fa-brands fa-google fa-1x"></i>
+                    </a>
+                    <br><br>
+
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Siyang Jiang*, <u>Xian Shuai*</u>, Guoliang Xing. ArtFL: Exploiting Data Resolution in Federated Learning for Dynamic Runtime Inference via Multi-Scale Training. <b>IPSN '24  <a href="https://ipsn.acm.org/2024/awards.html" target="_blank" rel="noopener">(Best Paper Award).</a></b> 
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://ieeexplore.ieee.org/abstract/document/10577356/" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                        </li> 
+                        <br>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Xiaomin Ouyang, <u>Xian Shuai</u>, Yang Li, Li Pan, Xifan Zhang, Heming Fu, Sitong Cheng, Xinyan Wang, Shihua Cao, Jiang Xin, Hazel Mok, Zhenyu Yan, Doris Sau Fung Yu, Timothy Kwok, Guoliang Xing. ADMarker: A Multi-Modal Federated Learning System
+                            for Monitoring Digital Biomarkers of Alzheimer’s Disease. <b>MobiCom '24.</b> 
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://dl.acm.org/doi/pdf/10.1145/3636534.3649370" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                        </li> 
+                        <!-- <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Yimin Dai, <u>Xian Shuai</u>, Rui Tan, Guoliang Xing. Interpersonal distance tracking with mmWave radar and IMUs. <b>IPSN '23.</b>
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://tanrui.github.io/pub/ImmTrack.pdf" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                        </li>                         -->
+                        <!-- <br> -->
+                        <!-- <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Zhihe Zhao, <u>Xian Shuai</u>, Neiwen Ling, Nan Guan, Zhenyu Yan, Guoliang Xing. Moses: Efficient Exploitation of Cross-device Transferable Features for Tensor Program
+                            Optimization.  <b>HotMobile '23.</b>
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://arxiv.org/abs/2201.05752" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                        </li> -->
+                        <br>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            <u>Xian Shuai</u>, Yulin Shen, Siyang Jiang, Zhihe Zhao, Zhenyu Yan, Guoliang Xing. BalanceFL: Addressing Class Imbalance in Long-Tail Federated Learning. <b>IPSN '22.</b>
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a259/962400a259.pdf" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                            
+                            <!-- &nbsp <a class="btn btn-outline-primary btn-sm" href="https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a259/962400a259.pdf" target="_blank" rel="noopener">
+                                Code
+                            </a> -->
+                        </li>
+                        <br>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Xiaomin OUYANG, <u>Xian Shuai</u>, Ivy Wang Shi, Jiayu Zhou, Jianwei Huang, Guoliang Xing. Cosmo: Contrastive Fusion Learning with Small Data for Multimodal Human Activity Recognition.  <b>MobiCom '22.</b>
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://sxontheway.github.io/others/Cosmo-mobicom22-final.pdf" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                        </li>
+                        <br>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            <u>Xian Shuai</u>, Yulin Shen, Yi Tang, Shuyao Shi, Luping Ji, Guoliang Xing. milliEye: A Lightweight mmWave Radar and Camera Fusion System for Robust Object Detection. <b>IoTDI '21 
+                            <a href="https://conferences.computer.org/iotDI/2021/index.html" target="_blank" rel="noopener">(Best Student Paper Award).</a></b>
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://www.researchgate.net/publication/351669682_milliEye_A_Lightweight_mmWave_Radar_and_Camera_Fusion_System_for_Robust_Object_Detection" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                            <!-- &nbsp <a class="btn btn-outline-primary btn-sm" href="https://conferences.computer.org/cpsiot/pdfs/IPSN2022-6R1M30NXCSXmbVKUqzz1Of/962400a259/962400a259.pdf" target="_blank" rel="noopener">
+                                Code
+                            </a> -->
+                        </li>
+                        <br>
+                        <!-- <li>
+                            <span class="fa-li"><i class="fas fa-check"></i></span>
+                            Zhihe Zhao, Zhehao Jiang, Neiwen Ling, <u>Xian Shuai</u>, and Guoliang Xing. ECRT: An Edge Computing System for Real-Time Image-based Object Tracking.  <b>SenSys '18.</b>
+                            &nbsp;&nbsp<a class="btn btn-outline-primary btn-sm" href="https://dl.acm.org/doi/10.1145/3274783.3275199" target="_blank" rel="noopener">
+                                PDF
+                            </a>
+                        </li> -->
+                    </ul>
+                </div>
+            </section>
+
+
+            <hr class="m-0" />
+            <!-- Education Background-->
+            <section class="resume-section" id="background">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Education Background</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Doctor of Philosophy</h3>
+                            <div class="lead mb-3">
+                                Supervisor: Prof. Guoliang Xing
+                                <br>
+                                Department of Information Engineering, The Chinese University of Hong Kong
+                            </div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">Augest 2018 - October 2022 </span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Bechelor of Science</h3>
+                            <div class="lead mb-3">
+                                Applied Physics, University of Science and Technology of China (USTC)
+                            </div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">September 2014 - June 2018</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Summer Semester</h3>
+                            <div class="lead mb-3">
+                                University of British Colombia (UBC)
+                            </div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">July 2016 - Augest 2016</span></div>
+                    </div>
+                </div>
+            </section>
+
+
+            <hr class="m-0" />
+            <!-- Employment-->
+            <!-- <section class="resume-section" id="employment">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Employment</h2>
+                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Hong Kong University of Science and Technology (HKUST)</h3>
+                            <div class="subheading mb-3">Research Assistant, Multimedia Technology Research Center (Mtrec)</div>
+                            <div>Project: "A VoD System Based on CDN Architecture"</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">October 2014 - July 2015</span></div>
+                    </div>
+                    <div class="d-flex flex-column flex-md-row justify-content-between">
+                        <div class="flex-grow-1">
+                            <h3 class="mb-0">Hong Kong Applied Science and Technology Research Institute (ASTRI)</h3>
+                            <div class="subheading mb-3">Summer Intern</div>
+                            <div>Project: "IEEE VAST 2014 Challenge Competition"</div>
+                        </div>
+                        <div class="flex-shrink-0"><span class="text-primary">June 2014 - September 2014</span></div>
+                    </div>
+                </div>
+                
+            </section> -->
+            <hr class="m-0" />
+            <!-- Experience-->
+            <section class="resume-section" id="activities">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Activities</h2>
+
+                    <b> Experience</b>
+                    <ul>
+                        <li>  
+                            2022.07-2022.10, Investor Intern at <a href="https://www.5ycap.com/" target="_blank" rel="noopener">5Y Capital</a>, Investigating AIGC
+                        </li>
+                        <li>  
+                            2021-2022, Part-time Researcher at the Startup <a href="http://thingx-tech.com/" target="_blank" rel="noopener">ThingX Technology</a>
+                        </li>
+                        <li>
+                            2021.07, Participate <a href="https://www.ie.cuhk.edu.hk/techcom-summer-camp/" target="_blank" rel="noopener"> Technology Commercialization Summer Camp, CUHK  </a>
+                        </li>
+                        <li>
+                            2016-Present, Creative Contributor of <a href="https://www.vcg.com/" target="_blank" rel="noopener">Visual China Group </a>
+                        </li>
+                        <li>
+                            2016-2018, Associate Leader, Photography Association of University of Science and Technology of China (USTC) 
+                        </li>
+                    </ul>
+                    
+                    <br>
+                    <b>Conference/Journal Reviewer</b>
+                    <ul>
+                        <li>
+                            2023, Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT) 
+                        </li>
+                        <li>
+                            2023, IEEE Transactions on Mobile Computing (TMC)   
+                        </li>                        
+                        <li>
+                            2023, IEEE Transactions on Intelligent Vehicles (TIV)   
+                        </li>
+                        <li>
+                            2022, IEEE International Conference on Computer Communications (INFOCOM)
+                        </li>
+                        <li>
+                            2022, International Conference on Computer Communications and Networks (ICCCN)
+                        </li>                        
+                    </ul>
+                    
+                    <!-- <b>Research Assistant</b>
+                    <ul>
+                        <li>
+                            2019, Shenzhen Institute of Artificial Intelligence and Robotics for Society (AIRS) 
+                        </li>
+                        <li>
+                            2017, Photoelectric System Lab, Institute of Semiconductors, China Academy of Sciences (CAS)
+                        </li>
+                        <li>
+                            2017, Department of Computer Science and Technology, Tsinghua University
+                        </li>
+                    </ul> -->
+
+                    
+                    <!-- <b>Teaching Assistant</b>
+                    <ul>
+                        <li>
+                            2020/2021 Spring, IERG 3810: Microcontrolllers and Embedded System 
+                        </li>
+                        <li>
+                            2019/2021 Fall, ENGG 1100: Problem Solving by Programming 
+                        </li>
+                        <li>
+                            2019 Spring, IERG 4230: Introduction to Internet of Things 
+                        </li>
+                        <li>
+                            2018 Fall, ENGG 1100: Introduction to Engineering Design 
+                        </li>
+                    </ul> -->
+                    
+                </div>
+            </section>
+
+
+            <hr class="m-0" />
+            <!-- Awards-->
+            <section class="resume-section" id="awards">
+                <div class="resume-section-content">
+                    <h2 class="mb-5">Honors and Awards</h2>
+                    <ul class="fa-ul mb-0">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning fa-1x"></i></span> 
+                            2024, <b>Best Paper Award</b>, The 23th ACM/IEEE International Conference on Information Processing in Sensor Networks (IPSN).
+                            <!-- <a href="https://conferences.computer.org/iotDI/2021/index.html" target="_blank" rel="noopener">(Link)</a> -->
+                        </li>
+                        <li> 
+                            <span class="fa-li"><i class="fas fa-trophy text-warning fa-1x"></i></span>
+                            2018 - 2022. <b>Postgraduate Scholarship</b>, the Chinese University of Hong Kong (CUHK).
+                        </li>                        
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning fa-1x"></i></span> 
+                            2021, <b>Best Student Paper Award</b>, The 6th ACM/IEEE International Conference on Internet of Things Design and Implementation (IoTDI). 
+                            <!-- <a href="https://conferences.computer.org/iotDI/2021/index.html" target="_blank" rel="noopener">(Link)</a> -->
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning fa-1x"></i></span> 
+                            2021. <b>Silver Award</b>. The 7th Anhui Province College Students' “Internet+” Innovation and Entrepreneurship Competition. 
+                            <!-- <a href="https://cyxy.cua.edu.cn/_upload/article/files/40/73/97df9a2d4f3b91f188eb11792c02/cdffa403-cd99-40f4-974f-98570d19e296.pdf" target="_blank" rel="noopener">(Link)</a> -->
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning fa-1x"></i></span>
+                            2017, 2015, <b>Outstanding Student Scholarship</b>, University of Science and Technology of China (USTC).
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-trophy text-warning fa-1x"></i></span>
+                            2013, <b>The First Price (Sichuan Province)</b>, Chinese Physics Olympiad (CPhO)
+                        </li>
+                    </ul>
+                </div>
+            </section>
+        </div>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
